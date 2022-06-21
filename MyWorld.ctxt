@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=x\ y
+comment2.target=void\ showGold(int,\ int)
+comment3.params=coordinate
+comment3.target=int\ generateGridCoordinates(int)
+comment4.params=num\ xPos\ yPos
+comment4.target=void\ drawRow(int,\ int,\ int)
+comment5.params=num\ xPos\ yPos
+comment5.target=void\ drawBar(int,\ int,\ int)
+comment6.params=height\ xPos\ yPos
+comment6.target=void\ drawLadder(int,\ int,\ int)
+numComments=7

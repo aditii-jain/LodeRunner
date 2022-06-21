@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BlueRect
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlueRect\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=width\ height
+comment1.target=BlueRect(int,\ int)
+comment1.text=\n\n\ Act\ -\ do\ whatever\ the\ BlueRect\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

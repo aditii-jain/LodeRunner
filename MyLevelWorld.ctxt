@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyLevelWorld
+comment0.text=\n\ use\ this\ class\ as\ a\ starting\ point\ for\ your\ Lode\ Runner.\ Transfer\ any\ extra\ methods\ or\ fields\ you\ need\ from\ your\ original\ class.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=boolean\ getGameOver()
+comment2.params=
+comment2.target=MyLevelWorld()
+comment3.params=level\ lives\ score
+comment3.target=MyLevelWorld(int,\ int,\ int)
+comment4.params=coordinate
+comment4.target=int\ generateGridCoordinates(int)
+comment5.params=
+comment5.target=void\ defineClassTypes()
+comment6.params=
+comment6.target=void\ updateLives()
+comment7.params=
+comment7.target=void\ updateScore()
+comment8.params=
+comment8.target=void\ updateLevel()
+comment9.params=
+comment9.target=void\ act()
+numComments=10

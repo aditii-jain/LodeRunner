@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\n\ Write\ a\ description\ of\ class\ Person\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.lang.String\ getCommand()
+comment2.params=
+comment2.target=boolean\ isTouchingLadder()
+comment3.params=
+comment3.target=java.lang.String\ getPerson()
+comment4.params=
+comment4.target=boolean\ isTouchingGold()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=6

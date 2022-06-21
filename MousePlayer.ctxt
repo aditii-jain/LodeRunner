@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MousePlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ MousePlayer\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=boolean\ mouseToRight()
+comment2.params=
+comment2.target=boolean\ mouseToLeft()
+comment3.params=
+comment3.target=boolean\ mouseAbove()
+comment4.params=
+comment4.target=boolean\ mouseBelow()
+comment5.params=
+comment5.target=boolean\ ladderBelow()
+comment6.params=
+comment6.target=java.lang.String\ getCommand()
+numComments=7
